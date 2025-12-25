@@ -6,3 +6,9 @@ streamlit
 wikipedia
 langchain_community
 arxiv
+bs4
+pypdf
+faiss-cpu
+langchain-text-splitters
+langchain-google-genai
+
