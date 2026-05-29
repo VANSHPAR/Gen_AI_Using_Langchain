@@ -11,4 +11,6 @@ pypdf
 faiss-cpu
 langchain-text-splitters
 langchain-google-genai
-
+sentence-transformers
+langchain_Huggingface
+pymupdf
